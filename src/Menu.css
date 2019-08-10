@@ -1,0 +1,11 @@
+.menustyle{
+    line-height:0.5;
+    color:white;
+}
+.navbarstyle {
+    background-color:black;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
